@@ -1,3 +1,2 @@
-.venv/
-inventory.db
-__pycache__/
+*.log
+reports/
